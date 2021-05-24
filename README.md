@@ -1,0 +1,2 @@
+# pytorchMnistTrain
+Me learning pytorch
